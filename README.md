@@ -1,4 +1,4 @@
-# Meteorite-data-cleaning
+# Meteorite-data-cleaning ✅
 
 This repository demonstrates a simple **data cleaning workflow** on a meteorites dataset using **SQLite3**.
 
@@ -16,4 +16,3 @@ The SQL script performs:
 3. Remove unwanted entries
 4. Reorder data and regenerate unique IDs
 5. Create final cleaned table `meteorites` with consistent columns
-
